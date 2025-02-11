@@ -20,7 +20,7 @@ private static final String WEBHOOK_URL = "ここに入力（必須）"; (LogToD
 private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatToDiscord)
 ```
 
-LogToDiscord.java と ChatToDiscord.java にこのようなコードが存在しているはずですので
+`LogToDiscord.java` と `ChatToDiscord.java`にこのようなコードが存在しているはずですので
 "ここに入力（必須）"
 と書かれた場所にWebHookのURLをペーストしてください（※内容は削除してください)
 
@@ -29,7 +29,7 @@ LogToDiscord.java と ChatToDiscord.java にこのようなコードが存在し
     public static void onLogMessage(ServerStartingEvent event) {  // サーバー開始時ログ送信
         String logMessage = "ここに入力"; // 固定のログメッセージ（適宜変更してください）
 ```
-LogToDiscord.java に存在するこのコードにはサーバー起動時の固定ログを表示させることができます
+`LogToDiscord.java` に存在するこのコードにはサーバー起動時の固定ログを表示させることができます
 "ここに入力"
 と書かれた場所にメッセージを入力してください. . .
 
@@ -38,14 +38,14 @@ JsonObject json = new JsonObject();
             json.addProperty("username", "Long Server");
             json.addProperty("content", "> **LOG** : " + message); // ログ送信
 ```
-LogToDiscord.java に存在するこのコードにはWebHookのBOTの名前の変更をすることができます
+`LogToDiscord.java` に存在するこのコードにはWebHookのBOTの名前の変更をすることができます
 
 ```
 JsonObject json = new JsonObject();
             json.addProperty("username", "Long Server"); // 固定のWebhook名（valueを変更)
             json.addProperty("content", "**" + username + "** : " + message); // メッセージのフォーマット変更
 ```
-ChatToDiscord.java に存在するこのコードには送信者の名前の変更と、フォーマットの変更を行うことができます。
+`ChatToDiscord.java` に存在するこのコードには送信者の名前の変更と、フォーマットの変更を行うことができます。
 
 
 ```
@@ -53,10 +53,9 @@ public static boolean isModEnabledForPlayer(String playerName) {
         return isServerEnvironment || playerName.equals("LongExplotion0"); //mcid (adminにしておくといいかも)
         // サーバー環境なら有効 or "LongExplotion0" なら例外的に有効
 ```
-Longnull.java に存在するこのコードにはMODの対象外のmcidを変更することができます
+`Longnull.java` に存在するこのコードにはMODの対象外のmcidを変更することができます
 必要に応じて変更してください
-
-> (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
+(シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
 
 
 # Building
