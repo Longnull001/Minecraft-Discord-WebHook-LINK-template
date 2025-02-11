@@ -53,7 +53,7 @@ public static boolean isModEnabledForPlayer(String playerName) {
         return isServerEnvironment || playerName.equals("LongExplotion0"); //mcid (adminにしておくといいかも)
         // サーバー環境なら有効 or "LongExplotion0" なら例外的に有効
 ```
-Longnull.java に存在するこのコードにはMODの対象外のmcidを変更することができます
+> Longnull.java に存在するこのコードにはMODの対象外のmcidを変更することができます
 必要に応じて変更してください
 
 (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
@@ -65,7 +65,7 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成されます。(Default)
 
-# > LINK
+# LINK
 
 - [Twitter](https://x.com/Longlong726811)
 * [Github](https://github.com/Longnull001)
