@@ -53,8 +53,8 @@ public static boolean isModEnabledForPlayer(String playerName) {
         return isServerEnvironment || playerName.equals("LongExplotion0"); //mcid (adminにしておくといいかも)
         // サーバー環境なら有効 or "LongExplotion0" なら例外的に有効
 ```
-> Longnull.java に存在するこのコードにはMODの対象外のmcidを変更することができます
-必要に応じて変更してください
+Longnull.java に存在するこのコードにはMODの対象外のmcidを変更することができます
+> 必要に応じて変更してください
 
 (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
 
