@@ -102,4 +102,4 @@ SOFTWARE.`
 [URL](https://www.oracle.com/jp/java/technologies/javase/jdk-faqs.html)
 
 > ### ・Vitual Studio Code (Microsoft Software License)
-https://code.visualstudio.com/license?lang=ja
+[URL](https://code.visualstudio.com/license?lang=ja)
