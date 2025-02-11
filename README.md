@@ -13,7 +13,7 @@
 
 
 
-使い方
+## 使い方
 
 private static final String WEBHOOK_URL = "ここに入力（必須）"; (LogToDiscord)
 private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatToDiscord)
