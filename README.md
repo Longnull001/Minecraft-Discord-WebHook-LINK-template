@@ -11,7 +11,7 @@
 ##### 期待も何も他の方のソースがちゃんとしているので... :cry:
 
 ## :computer:  環境
-- VSCode[^1]:(Eclipse,IntelliJ etc)
+- VSCode (Eclipse,IntelliJ etc)
 * JDK 17
 ## :book:  使い方
 
@@ -23,7 +23,7 @@ private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatTo
 `LogToDiscord.java` と `ChatToDiscord.java`にこのようなコードが存在しているはずですので
 "ここに入力（必須）"
 と書かれた場所にWebHookのURLをペーストしてください
-[^1]:（※内容は削除してください)
+> <sub>(※内容は削除してください)</sub>
 
 ```
 @SubscribeEvent
