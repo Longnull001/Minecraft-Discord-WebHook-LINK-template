@@ -56,7 +56,7 @@ public static boolean isModEnabledForPlayer(String playerName) {
 ```
 `Longnull.java` に存在するこのコードにはMODの対象外のmcidを変更することができます
 必要に応じて変更してください
-<sub> > (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）</sub>
+> <sub> (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）</sub>
 
 
 ## :bricks:  Building
