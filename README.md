@@ -64,7 +64,7 @@ public static boolean isModEnabledForPlayer(String playerName) {
 
 Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成されます。(Default)
 
-# LINK :globe_with_meridians: 
+# :globe_with_meridians:  LINK
 
 - [Twitter](https://x.com/Longlong726811)
 * [Github](https://github.com/Longnull001)
