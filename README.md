@@ -1,4 +1,4 @@
-> # :books:  使用する際はDiscord利用規約を厳守してください。
+> # :books:  Discord利用規約を厳守してください。
 
 ### 現在のversionは1.0.1です。
 
