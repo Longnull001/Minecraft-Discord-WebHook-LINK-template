@@ -59,7 +59,7 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
 
 
-#Building
+# Building
 
 最後に```.\gradlew build```を行いjarを作成してください。
 
