@@ -48,6 +48,8 @@ JsonObject json = new JsonObject();
 ChatToDiscord.java に存在するこのコードには送信者の名前の変更と、フォーマットの変更を行うことができます。
 
 
+
+
 ```
 public static boolean isModEnabledForPlayer(String playerName) {
         return isServerEnvironment || playerName.equals("LongExplotion0"); //mcid (adminにしておくといいかも)
