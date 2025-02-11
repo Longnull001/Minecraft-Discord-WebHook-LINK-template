@@ -11,8 +11,8 @@
 ##### 期待も何も他の方のソースがちゃんとしているので... :cry:
 
 ## :computer:  環境
-- VSCode (Eclipse,IntelliJ etc)
-* JDK 17
+- <ins>VSCode (Eclipse,IntelliJ etc)</ins>
+* <ins>JDK 17</ins>
 ## :book:  使い方
 
 ```
