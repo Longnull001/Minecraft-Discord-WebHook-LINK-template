@@ -63,6 +63,8 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 最後に```.\gradlew build```を行いjarを作成してください。
 
+Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成されます。
+
 # LINK
 
 - [Twitter](https://x.com/Longlong726811)
