@@ -48,8 +48,6 @@ JsonObject json = new JsonObject();
 ChatToDiscord.java に存在するこのコードには送信者の名前の変更と、フォーマットの変更を行うことができます。
 
 
-
-
 ```
 public static boolean isModEnabledForPlayer(String playerName) {
         return isServerEnvironment || playerName.equals("LongExplotion0"); //mcid (adminにしておくといいかも)
@@ -67,7 +65,7 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成されます。(Default)
 
-# LINK
+# > LINK
 
 - [Twitter](https://x.com/Longlong726811)
 * [Github](https://github.com/Longnull001)
