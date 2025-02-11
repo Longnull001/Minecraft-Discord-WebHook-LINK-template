@@ -32,7 +32,7 @@ private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatTo
 ```
 `LogToDiscord.java` に存在するこのコードにはサーバー起動時の固定ログを表示させることができます
 "ここに入力"
-と書かれた場所にメッセージを入力してください. . .
+と書かれた場所にメッセージを入力してください
 
 ```
 JsonObject json = new JsonObject();
