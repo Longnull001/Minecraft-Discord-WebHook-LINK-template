@@ -63,4 +63,4 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 # LINK
 
-(https://x.com/Longlong726811)[Twitter]
+[Twitter](https://x.com/Longlong726811)
