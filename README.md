@@ -103,3 +103,6 @@ SOFTWARE.`
 
 > ### ・Vitual Studio Code (Microsoft Software License)
 [URL](https://code.visualstudio.com/license?lang=ja)
+
+> ### ・Minecraft License
+[URL](https://www.minecraft.net/ja-jp/terms/r3)
