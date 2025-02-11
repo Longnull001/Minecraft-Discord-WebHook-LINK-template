@@ -64,3 +64,6 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 # LINK
 
 [Twitter](https://x.com/Longlong726811)
+[Github](https://github.com/Longnull001)
+
+### DMを送信したい場合は[Twitter](https://x.com/Longlong726811) または ```long019284``` にてDiscordにお問い合わせください
