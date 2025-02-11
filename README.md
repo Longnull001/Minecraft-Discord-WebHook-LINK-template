@@ -1,4 +1,4 @@
-# 使用する際はDiscord利用規約を厳守してください。
+# :books:  使用する際はDiscord利用規約を厳守してください。
 
 ### 現在のversionは1.0.1です。
 
@@ -58,13 +58,13 @@ public static boolean isModEnabledForPlayer(String playerName) {
 (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
 
 
-# :bricks:  Building
+## :bricks:  Building
 
 最後に```.\gradlew build```を行いjarを作成してください。
 
 Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成されます。(Default)
 
-# :globe_with_meridians:  LINK
+## :globe_with_meridians:  LINK
 
 - [Twitter](https://x.com/Longlong726811)
 * [Github](https://github.com/Longnull001)
