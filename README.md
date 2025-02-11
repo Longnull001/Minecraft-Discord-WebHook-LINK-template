@@ -70,7 +70,3 @@ Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成�
 * [Github](https://github.com/Longnull001)
 
 ### DMを送信したい場合は [Twitter](https://x.com/Longlong726811) または ```long019284``` にてDiscordにお問い合わせください
-
-100. First list item
-     - First nested list item
-       - Second nested list item
