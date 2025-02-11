@@ -31,6 +31,7 @@ private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatTo
         String logMessage = "ここに入力"; // 固定のログメッセージ（適宜変更してください）
 ```
 `LogToDiscord.java` に存在するこのコードにはサーバー起動時の固定ログを表示させることができます
+
 `"ここに入力"`
 と書かれた場所に<ins>メッセージを入力</ins>してください
 
