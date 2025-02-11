@@ -25,6 +25,7 @@ private static final String WEBHOOK_URL = "ここに入力（必須）"; (ChatTo
 と書かれた場所に<ins>WebHookのURL</ins>をペーストしてください
 > <sub>(※内容は削除してください)</sub>
 
+
 ```
 @SubscribeEvent
     public static void onLogMessage(ServerStartingEvent event) {  // サーバー開始時ログ送信
