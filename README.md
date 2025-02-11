@@ -10,9 +10,9 @@
 ##### 基本的にはあまり期待しないでください。
 ##### 期待も何も他の方のソースがちゃんとしているので...
 
-
-
-
+## 環境整備
+・JDK 17
+・Eclipse
 ## 使い方
 
 private static final String WEBHOOK_URL = "ここに入力（必須）"; (LogToDiscord)
