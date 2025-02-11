@@ -60,3 +60,7 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 
 最後に```.\gradlew build```を行いjarを作成してください。
+
+# LINK
+
+(Twiter)[https://x.com/Longlong726811]
