@@ -76,7 +76,7 @@ Jarは```C:\Users\USER\Downloads\forge 1.20.1 mdk server\build\libs```に作成�
 
 ## :scroll: License
 
-### MIT License
+### > ・MIT License
 
 `Copyright (c) 2025 Longnull001`
 
@@ -97,3 +97,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.`
+
+### > ・Oracle JDK License 
+[URL](https://www.oracle.com/jp/java/technologies/javase/jdk-faqs.html)
