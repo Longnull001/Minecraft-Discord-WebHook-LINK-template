@@ -59,3 +59,4 @@ Longnull.java に存在するこのコードにはMODの対象外のmcidを変�
 
 
 
+最後に.\gradlew buildを行いjarを作成してください。
