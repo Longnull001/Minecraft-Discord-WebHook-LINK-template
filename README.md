@@ -8,12 +8,12 @@
 ### これを読んでいる人がいるとしたら、利用していただきありがとうございます。
 
 ##### 基本的にはあまり期待しないでください。
-##### 期待も何も他の方のソースがちゃんとしているので...
+##### 期待も何も他の方のソースがちゃんとしているので... :cry:
 
-## 環境
+## :computer:  環境
 - VSCode(Eclipse,IntelliJ etc)
 * JDK 17
-## 使い方
+## :book:  使い方
 
 ```
 private static final String WEBHOOK_URL = "ここに入力（必須）"; (LogToDiscord)
@@ -58,7 +58,7 @@ public static boolean isModEnabledForPlayer(String playerName) {
 (シングルプレイでの検証可能、他サーバーでの使用可能（サーバー側に存在する場合）
 
 
-# Building
+# :bricks:  Building
 
 最後に```.\gradlew build```を行いjarを作成してください。
 
